@@ -1,3 +1,6 @@
+*.db
+.idea/*
+ .idea/workspace.xml
 /target
 /lib
 /classes
