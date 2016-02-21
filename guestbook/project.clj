@@ -7,6 +7,8 @@
                  [selmer "1.0.0"]
                  [markdown-clj "0.9.85"]
                  [luminus/config "0.5"]
+
+
                  [ring-middleware-format "0.7.0"]
                  [metosin/ring-http-response "0.6.5"]
                  [bouncer "1.0.0"]
@@ -14,6 +16,9 @@
                  [org.webjars/font-awesome "4.5.0"]
                  [org.webjars.bower/tether "1.1.1"]
                  [org.webjars/jquery "2.2.0"]
+                 [com.taoensso/timbre "4.2.1"]
+                 [com.taoensso/sente "1.8.0-beta1"]
+                 [com.taoensso/tower "3.0.2"]
                  [org.clojure/tools.logging "0.3.1"]
                  [com.taoensso/tower "3.0.2"]
                  [compojure "1.4.0"]
