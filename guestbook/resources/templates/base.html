@@ -52,7 +52,8 @@
     <script type="text/javascript">
       var context = "{{servlet-context}}";
     </script>
-    {% block page-scripts %}
-    {% endblock %}
+      {% script "/js/app.js" %}
+      {% block page-scripts %}
+      {% endblock %}
   </body>
 </html>
