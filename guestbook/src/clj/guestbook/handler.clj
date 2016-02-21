@@ -8,7 +8,8 @@
             [config.core :refer [env]]
             [guestbook.config :refer [defaults]]
             [mount.core :as mount]
-            [luminus.logger :as logger]))
+            [luminus.logger :as logger]
+            [guestbook.routes.ws :refer [websocket-routes]]))
 
 (defn init
   "init will be called once when
@@ -32,10 +33,10 @@
 
 (def app-routes
   (routes
+    #'websocket-routes
     (wrap-routes #'home-routes middleware/wrap-csrf)
     (route/not-found
       (:body
         (error-page {:status 404
                      :title "page not found"})))))
-
 (def app (middleware/wrap-base #'app-routes))
