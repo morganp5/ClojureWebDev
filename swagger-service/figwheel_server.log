@@ -1,0 +1,37 @@
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: EOF while reading, starting at line 8 and column 1 on file /home/peter/Clojure/ClojureWebDev/swagger-service/src/cljs/swagger_service/core.cljs, line 8, column 26
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.734 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/swagger_service/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.032 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/swagger_service/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.42 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/swagger_service/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.62 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/swagger_service/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.551 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var swagger-service.core/images at line 18 /home/peter/Clojure/ClojureWebDev/swagger-service/src/cljs/swagger_service/core.cljs
+notifying browser that file changed:  out/swagger_service/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.244 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/swagger_service/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.39 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/swagger_service/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.391 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/swagger_service/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.365 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/swagger_service/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.36 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/swagger_service/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.329 seconds.[0m
